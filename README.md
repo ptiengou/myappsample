@@ -1,2 +1,2 @@
 #MyApp
-This is Paulo Blancquart
+This is a tutorial
